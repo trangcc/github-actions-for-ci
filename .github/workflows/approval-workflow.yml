@@ -1,2 +1,2 @@
 name: Team's awesome approval workflow
-on: push
+on: pull_request_review
